@@ -1,16 +1,13 @@
-## Hi there 👋
+## Meu perfil 👋
 
-<!--
-**joseguilherme1230/joseguilherme1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou cursando [Alura](https://www.alura.com.br)
+- Tenho 17 anos.
+- Estudante da Escola Ruth Dalva
+- Espaço para desenvolver meus projetos.
 
-Here are some ideas to get you started:
+- Entre em contato comigo📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001088985385SP@aluno.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/bIWKGrYb0FIAAAAC/crazy-dance-funny-dance.gif)
+  
